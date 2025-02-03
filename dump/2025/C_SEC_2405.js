@@ -2,7 +2,7 @@ const dump = {
     // 2025
     'C_SEC_2405': [
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 1</b> <br> Which cloud-based SAP solution helps organizations control their data across various cloud platforms and on-premise data sources?",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which cloud-based SAP solution helps organizations control their data across various cloud platforms and on-premise data sources?",
             "answer": [
                 {
                     "bool": false,
@@ -21,12 +21,11 @@ const dump = {
                     "text": "SAP Information Steward"
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_1",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 2</b> <br> Which cybersecurity type does NOT focus on protecting connected devices?",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which cybersecurity type does NOT focus on protecting connected devices?",
             "answer": [
                 {
                     "bool": false,
@@ -45,12 +44,11 @@ const dump = {
                     "text": "lot security",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_2",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 3</b> <br> What happens to data within SAP Enterprise Threat Detection during the aggregation process? Note: There are 3 correct answers to this question.",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> What happens to data within SAP Enterprise Threat Detection during the aggregation process? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -73,12 +71,11 @@ const dump = {
                     "text": "It is enriched.",
                 }
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_3",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 4</b> <br> What are some security safeguards categories? Note: There are 3 correct answers to this question.",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> What are some security safeguards categories? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -101,12 +98,11 @@ const dump = {
                     "text": "Financial",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_4",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 5</b> <br> Which of the blowing functions within SAP GRC Access Control support access certification and review? Note: There are 2 correct answers to tM Question.",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which of the blowing functions within SAP GRC Access Control support access certification and review? Note: There are 2 correct answers to tM Question.",
             "answer": [
                 {
                     "bool": false,
@@ -125,12 +121,11 @@ const dump = {
                     "text": "Role Review",
                 }
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_5",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 6</b> <br> Which solution analyzes an SAP system's administrative areas to safeguard against potential threats?",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which solution analyzes an SAP system's administrative areas to safeguard against potential threats?",
             "answer": [
                 {
                     "bool": false,
@@ -149,12 +144,11 @@ const dump = {
                     "text": "SAP Security Optimization Services",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_6",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 7</b> <br> Which solution is NOT used to identify security recommendations for the SAP Security Baseline?",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which solution is NOT used to identify security recommendations for the SAP Security Baseline?",
             "answer": [
                 {
                     "bool": true,
@@ -173,12 +167,11 @@ const dump = {
                     "text": "SAP Security Notes",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_7",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 8</b> <br> Which functions in SAP Access Control can be used to approve or reject a user's continued access to specific security roles? Note: There are 2 correct answers to this question.",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which functions in SAP Access Control can be used to approve or reject a user's continued access to specific security roles? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -197,12 +190,11 @@ const dump = {
                     "text": "Role Reaffirm",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_8",
         },
         {
-            "question": "<b>Governance, compliance, and cybersecurity Question 9</b> <br> Which of the following are Security Goals? Note: There are 2 correct answers to this question.",
+            "question": "<b>Governance, compliance, and cybersecurity</b> <br><br> Which of the following are Security Goals? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -221,12 +213,11 @@ const dump = {
                     "text": "Information Integrity",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_9",
         },
         {
-            "question": "<b>Governance,	compliance,	and cybersecurity Question 10</b> <br> When segregating the duties for user and role maintenance, which of the following should be part of a decentralized treble control strategy for a production system? Note: There are 3 correct answers to this question.",
+            "question": "<b>Governance,	compliance,	and cybersecurity</b> <br><br> When segregating the duties for user and role maintenance, which of the following should be part of a decentralized treble control strategy for a production system? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -249,12 +240,11 @@ const dump = {
                     "text": "One decentralized role administrator",
                 }
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_10",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 11</b> <br> In the administration console of the Cloud Identity Services, which system property types can you add? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> In the administration console of the Cloud Identity Services, which system property types can you add? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -273,12 +263,11 @@ const dump = {
                     "text": "Default",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_11",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 12</b> <br> In the administration console of the Cloud Identity Services, for which system type can you define both read and write transformations?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> In the administration console of the Cloud Identity Services, for which system type can you define both read and write transformations?",
             "answer": [
                 {
                     "bool": false,
@@ -293,12 +282,11 @@ const dump = {
                     "text": "Proxy systems",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_12",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 13</b> <br> What do you configure the Social Media deny providers?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> What do you configure the Social Media deny providers?",
             "answer": [
                 {
                     "bool": false,
@@ -313,12 +301,11 @@ const dump = {
                     "text": "In the administration console for SAP Cloud identity Services",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_13",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 14</b> <br> For which of the following can transformation variables be used?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> For which of the following can transformation variables be used?",
             "answer": [
                 {
                     "bool": false,
@@ -333,12 +320,11 @@ const dump = {
                     "text": "To save data temporarily",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_14",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 15</b> <br> In the administration console of the Cloud Identity Services, which authentication providers are available? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> In the administration console of the Cloud Identity Services, which authentication providers are available? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -357,12 +343,11 @@ const dump = {
                     "text": "Ariba",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_15",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 16</b> <br> In which order do you define the security-relevant objects in SAP BTP?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> In which order do you define the security-relevant objects in SAP BTP?",
             "answer": [
                 {
                     "bool": true,
@@ -377,12 +362,11 @@ const dump = {
                     "text": "Role3",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_16",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 17</b> <br> Which of the following services does the Identity Authentication Service provide? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which of the following services does the Identity Authentication Service provide? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -401,12 +385,11 @@ const dump = {
                     "text": "Policy refinement",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_17",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 18</b> <br> What use cases are available for a Local Identity Directory? Note: There are 3 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> What use cases are available for a Local Identity Directory? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -429,12 +412,11 @@ const dump = {
                     "text": "Classic use case",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_18",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 19</b> <br> SAP BTP distinguishes between which of the following users? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> SAP BTP distinguishes between which of the following users? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -453,12 +435,11 @@ const dump = {
                     "text": "Key users",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_19",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 20</b> <br> Which cryptographic libraries are provided by SAP? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which cryptographic libraries are provided by SAP? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -477,12 +458,11 @@ const dump = {
                     "text": "CommonCryptoLib",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_20",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 21</b> <br> What can be assigned directly to a user when using the SAP Launchpad service in SAP BTP?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> What can be assigned directly to a user when using the SAP Launchpad service in SAP BTP?",
             "answer": [
                 {
                     "bool": false,
@@ -501,12 +481,11 @@ const dump = {
                     "text": "Catalogs",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_21",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 22</b> <br> Which protocol is the industry standard for provisioning identity and access management in hybrid landscapes?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which protocol is the industry standard for provisioning identity and access management in hybrid landscapes?",
             "answer": [
                 {
                     "bool": true,
@@ -525,12 +504,11 @@ const dump = {
                     "text": "OIDC",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_22",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 23</b> <br> Which log types are available in the Administration Console of Cloud Identity Services? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which log types are available in the Administration Console of Cloud Identity Services? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -549,12 +527,11 @@ const dump = {
                     "text": "Usage logs",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_23",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 24</b> <br> What does SAP Key Management Service (KMS) do to secure cryptographic keys? Note: There are 3 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> What does SAP Key Management Service (KMS) do to secure cryptographic keys? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -577,12 +554,11 @@ const dump = {
                     "text": "Transmit keys",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_24",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 25</b> <br> In the SAP BTP Cockpit, at which level is Trust Configuration available? Note: There are 2 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> In the SAP BTP Cockpit, at which level is Trust Configuration available? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -601,12 +577,11 @@ const dump = {
                     "text": "Directory",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_25",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 26</b> <br> Which levels of security protection are provided by Secure Network Communication (SNC)? Note: There are 3 correct answers to this question.",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which levels of security protection are provided by Secure Network Communication (SNC)? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -629,12 +604,11 @@ const dump = {
                     "text": "Authorization",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_26",
         },
         {
-            "question": "<b>Infrastructure Security and Authentication Question 27</b> <br> Which tool can you use to modify the entities schema content across multiple repositories?",
+            "question": "<b>Infrastructure Security and Authentication</b> <br><br> Which tool can you use to modify the entities schema content across multiple repositories?",
             "answer": [
                 {
                     "bool": false,
@@ -653,12 +627,11 @@ const dump = {
                     "text": "SAP Cloud Identity Services Schemas app",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_27",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 28</b> <br> Following an upgrade of your SAP S/4HANA on-premise system to a higher release, you perform a Modification Comparison using SU25. <br> What does this comparison do?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Following an upgrade of your SAP S/4HANA on-premise system to a higher release, you perform a Modification Comparison using SU25. <br> What does this comparison do?",
             "answer": [
                 {
                     "bool": true,
@@ -677,12 +650,11 @@ const dump = {
                     "text": "It compares your changes to the SAP defaults in USOBX_C and USOBT_C with the new SAP defaults in the current release and allows you to make adjustments.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_28",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 29</b> <br> Which of the following allow you to control the assignment of table authorization groups? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Which of the following allow you to control the assignment of table authorization groups? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -701,12 +673,11 @@ const dump = {
                     "text": "SSM_CUST",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_29",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 30</b> <br> Which limitations apply to restricted users in SAP HANA Cloud? Note: There are 3 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Which limitations apply to restricted users in SAP HANA Cloud? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -729,12 +700,11 @@ const dump = {
                     "text": "They cannot create objects in the database.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_30",
         },
         {
-            "question": "<b>Authorization and Role maintenance Question 31</b> <br> When performing a comparison from the imparting role, what happens to the organizational level field values in the derived role? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role maintenance</b> <br><br> When performing a comparison from the imparting role, what happens to the organizational level field values in the derived role? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -753,12 +723,11 @@ const dump = {
                     "text": "Data for organizational levels that have already been maintained in the derived role is overwritten.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_31",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 32</b> <br> What authorization object can be used to restrict which users a security administrator is authorized to maintain?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What authorization object can be used to restrict which users a security administrator is authorized to maintain?",
             "answer": [
                 {
                     "bool": false,
@@ -777,12 +746,11 @@ const dump = {
                     "text": "S_USER_GRP",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_32",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 33</b> <br> In SAP HANA Cloud, who has access to a database object?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> In SAP HANA Cloud, who has access to a database object?",
             "answer": [
                 {
                     "bool": false,
@@ -801,12 +769,11 @@ const dump = {
                     "text": "The creator and the schema owner",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_33",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 34</b> <br> What does a status text value of \"Old\" mean during the maintenance of authorizations for an existing role?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What does a status text value of \"Old\" mean during the maintenance of authorizations for an existing role?",
             "answer": [
                 {
                     "bool": false,
@@ -825,12 +792,11 @@ const dump = {
                     "text": "The field delivered with content was changed but the old value was retained.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_34",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 35</b> <br> What must you do before you can use transaction PFCG? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What must you do before you can use transaction PFCG? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -849,12 +815,11 @@ const dump = {
                     "text": "Set the system profile parameter auth/no_check_in_some_cases to N.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_35",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 36</b> <br> Your developer has created a new custom transaction for your SAP S/4HANA on-premise system and has provided you a list of the authorizations needed to execute the new ABAP program.\"What must you do to ensure that each required authorization is automatically created every time this new custom transaction is added to a PFCG role?\"",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Your developer has created a new custom transaction for your SAP S/4HANA on-premise system and has provided you a list of the authorizations needed to execute the new ABAP program.\"What must you do to ensure that each required authorization is automatically created every time this new custom transaction is added to a PFCG role?\"",
             "answer": [
                 {
                     "bool": true,
@@ -873,12 +838,11 @@ const dump = {
                     "text": "Maintain each authorization in transaction SU22 and set the Check Indicator value to \"Check\".",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_36",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 37</b> <br> What must you do if you want to enforce an additional authorization check when a user starts an SAP transaction?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What must you do if you want to enforce an additional authorization check when a user starts an SAP transaction?",
             "answer": [
                 {
                     "bool": false,
@@ -897,12 +861,11 @@ const dump = {
                     "text": "Assign the authorization object and permissions to the chosen transaction code using transaction SE93.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_37",
         },
         {
-            "question": "<b>Authorization	and	Role Maintenance Question 38</b> <br> Which of the following rules does SAP recommend you consider when you define a role- naming convention for an SAP S/4HANA on-premise system?Note: There are 3 correct answers to this question.",
+            "question": "<b>Authorization	and	Role Maintenance</b> <br><br> Which of the following rules does SAP recommend you consider when you define a role- naming convention for an SAP S/4HANA on-premise system?Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -925,12 +888,11 @@ const dump = {
                     "text": "Role names can be no longer than 30 characters",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_38",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 39</b> <br> Where can you find information on the SAP-delivered default authorization object and value assignments? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Where can you find information on the SAP-delivered default authorization object and value assignments? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -949,12 +911,11 @@ const dump = {
                     "text": "SU24",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_39",
         },
         {
-            "question": "<b>Authorization	and	Role Maintenance Question 40</b> <br> After you maintained authorization object S_TABU_DIS and ACTVT field value 02 as authorization defaults for transaction SM30 in your development system, what would be the correct option for transporting only these changes to your quality assurance system?",
+            "question": "<b>Authorization	and	Role Maintenance</b> <br><br> After you maintained authorization object S_TABU_DIS and ACTVT field value 02 as authorization defaults for transaction SM30 in your development system, what would be the correct option for transporting only these changes to your quality assurance system?",
             "answer": [
                 {
                     "bool": false,
@@ -973,12 +934,11 @@ const dump = {
                     "text": "Save your changes and use the transport interface in SU25 to transport the changes using the Transport Management System.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_40",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 41</b> <br> Which optional components can be included when transporting a role definition from the development system to the quality assurance system? Note: There are 3 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Which optional components can be included when transporting a role definition from the development system to the quality assurance system? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1001,12 +961,11 @@ const dump = {
                     "text": "Direct user assignments",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_41",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 42</b> <br> Which privilege types are available in SAP HANA Cloud? Note: There are 3 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Which privilege types are available in SAP HANA Cloud? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1029,12 +988,11 @@ const dump = {
                     "text": "Object",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_42",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 43</b> <br> Under which of the following conditions can you merge authorizations for the same object during role maintenance? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Under which of the following conditions can you merge authorizations for the same object during role maintenance? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1053,12 +1011,11 @@ const dump = {
                     "text": "The activation status of a manual authorization must match the status of the changed authorizations.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_43",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 44</b> <br> What are some disadvantages of a Composite Role? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What are some disadvantages of a Composite Role? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1077,12 +1034,11 @@ const dump = {
                     "text": "Menus from the included roles cannot be mixed.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_44",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 45</b> <br> For users with system administration authorization, which additional functions are provided by the SAP Easy Access menu? Note: There are 2 correct answers to this question.",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> For users with system administration authorization, which additional functions are provided by the SAP Easy Access menu? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1101,12 +1057,11 @@ const dump = {
                     "text": "Calling menus for roles and assigning them to users",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_45",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 46</b> <br> What authorization object can be used to authorize an administrator to create specific authorizations in roles?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> What authorization object can be used to authorize an administrator to create specific authorizations in roles?",
             "answer": [
                 {
                     "bool": false,
@@ -1125,12 +1080,11 @@ const dump = {
                     "text": "S_USER_TCD",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_46",
         },
         {
-            "question": "<b>Authorization and Role Maintenance Question 47</b> <br> Which code does the authority-check return when a user does NOT have any authorizations for the authorization object checked?",
+            "question": "<b>Authorization and Role Maintenance</b> <br><br> Which code does the authority-check return when a user does NOT have any authorizations for the authorization object checked?",
             "answer": [
                 {
                     "bool": true,
@@ -1149,12 +1103,11 @@ const dump = {
                     "text": "4",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_47",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 48</b> <br> Which of the following is part of the SAP S/4HANA central UI component?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Which of the following is part of the SAP S/4HANA central UI component?",
             "answer": [
                 {
                     "bool": true,
@@ -1173,12 +1126,11 @@ const dump = {
                     "text": "SAP Fiori transactional application",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_48",
         },
         {
-            "question": "<b>SAP	Fiori	Authorizations	and S/4HANA Question 49</b> <br> You are evaluating startable applications. Which of the following can you use to check if there is an application start lock on an application contained in a PFCG role? Note: There are 2 correct answers to this question.",
+            "question": "<b>SAP	Fiori	Authorizations	and S/4HANA</b> <br><br> You are evaluating startable applications. Which of the following can you use to check if there is an application start lock on an application contained in a PFCG role? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1197,12 +1149,11 @@ const dump = {
                     "text": "Transaction SUIM - Transactions Executable with Profile report",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_49",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 50</b> <br> You are building a PFCG role for access to an SAP Fiori app on your SAP S/4HANA on- premise system. After you enter the catalog in the role menu, an entry for an OData service is missing and you have to add it manually to the role menu.When you maintain authorization data in the PFCG role, why does SAP recommend that you NOT maintain the SRV_NAME field value of the S_SERVICE authorization object manually?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> You are building a PFCG role for access to an SAP Fiori app on your SAP S/4HANA on- premise system. After you enter the catalog in the role menu, an entry for an OData service is missing and you have to add it manually to the role menu.When you maintain authorization data in the PFCG role, why does SAP recommend that you NOT maintain the SRV_NAME field value of the S_SERVICE authorization object manually?",
             "answer": [
                 {
                     "bool": false,
@@ -1221,12 +1172,11 @@ const dump = {
                     "text": "Because the SRV_NAME hash value for the front-end server component and back- end server component are different.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_50",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 51</b> <br> When creating PFCG roles for SAP Fiori access, what is included automatically when adding a catalog to the menu of a back-end PFCG role? Note: There are 2 correct answers to this question.",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> When creating PFCG roles for SAP Fiori access, what is included automatically when adding a catalog to the menu of a back-end PFCG role? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1245,12 +1195,11 @@ const dump = {
                     "text": "The IWSV TADIR service definitions from the catalog.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_51",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 52</b> <br> Which of the following are SAP Fiori Launchpad functionalities? Note: There are 2 correct answers to this question.",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Which of the following are SAP Fiori Launchpad functionalities? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1269,12 +1218,11 @@ const dump = {
                     "text": "User Actions Menu",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_52",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 53</b> <br> How does Rapid Activation support customers during the SAP S/4HANA on-premise implementation process? Note: There are 3 correct answers to this question.",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> How does Rapid Activation support customers during the SAP S/4HANA on-premise implementation process? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1297,12 +1245,11 @@ const dump = {
                     "text": "By reducing the SAP Fiori activation effort during the Explore phase of SAP Activate.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_53",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 54</b> <br> What is the authorization object required to define the start authorization for an SAP Fiori legacy Web Dynpro application?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> What is the authorization object required to define the start authorization for an SAP Fiori legacy Web Dynpro application?",
             "answer": [
                 {
                     "bool": false,
@@ -1321,12 +1268,11 @@ const dump = {
                     "text": "S_SERVICE",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_54",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 55</b> <br> To connect to data sources that are NOT all based on OData, which of the following options does SAP recommend you use?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> To connect to data sources that are NOT all based on OData, which of the following options does SAP recommend you use?",
             "answer": [
                 {
                     "bool": false,
@@ -1345,12 +1291,11 @@ const dump = {
                     "text": "OData Provisioning service",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_55",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 56</b> <br> An authorization based on what object is required for trusted system access to an SAP Fiori back-end server?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> An authorization based on what object is required for trusted system access to an SAP Fiori back-end server?",
             "answer": [
                 {
                     "bool": false,
@@ -1369,36 +1314,34 @@ const dump = {
                     "text": "S_START",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_56",
         },
         {
-            "question": "<b>SAP	Fiori	Authorizations	and S/4HANA Question 57</b> <br> In S/4HANA on-premise, which of the following combinations is required to grant a business user access to data from a Core Data Services (CDS) view using the standard ABAP authorization concept and authorization object S_RS_AUTH?",
+            "question": "<b>SAP	Fiori	Authorizations	and S/4HANA</b> <br><br> In S/4HANA on-premise, which of the following combinations is required to grant a business user access to data from a Core Data Services (CDS) view using the standard ABAP authorization concept and authorization object S_RS_AUTH?",
             "answer": [
                 {
                     "bool": false,
-                    "text": "• A CDS role with access conditions based on authorization object S_RS_AUTH, <br> • APFCG role with authorization for object S_RS_AUTH and assignment of the PFCG role <b> • The CDS role to the business user. <br>",
+                    "text": "• A CDS role with access conditions based on authorization object S_RS_AUTH, <br> • APFCG role with authorization for object S_RS_AUTH and assignment of the PFCG role <br> • The CDS role to the business user. <br>",
                 },
                 {
                     "bool": true,
-                    "text": "• A CDS role with access conditions based on authorization object S_RS_AUTH <br> • APFCG role containing the CDS role and access conditions based up authorization object S_RS_AUTH <b> • Assignment of the PFCG role to the business user.",
+                    "text": "• A CDS role with access conditions based on authorization object S_RS_AUTH <br> • APFCG role containing the CDS role and access conditions based up authorization object S_RS_AUTH <br> • Assignment of the PFCG role to the business user.<br>",
                 },
                 {
                     "bool": false,
-                    "text": "• ACDS role with access conditions based on authorization object S_RS_AUTH <br> • A PFCG role with authorization for object S_RS_AUTH <br> • Assignment of the PFCG role to the business user. ",
+                    "text": "• ACDS role with access conditions based on authorization object S_RS_AUTH <br> • A PFCG role with authorization for object S_RS_AUTH <br> • Assignment of the PFCG role to the business user. <br>",
                 },
                 {
                     "bool": false,
                     "text": "• A CDS role with access conditions based on authorization object S_RS_AUTH <br> • APFCG role containing the CDS role and access conditions based up authorization object S_RS_AUTH <br> • Assignment of the PFCG role and the CDS role to the business user.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_57",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 58</b> <br> When you maintain authorizations for SAPUI5 Fiori apps, which of the following object types is the front-end authorization object type?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> When you maintain authorizations for SAPUI5 Fiori apps, which of the following object types is the front-end authorization object type?",
             "answer": [
                 {
                     "bool": false,
@@ -1417,12 +1360,11 @@ const dump = {
                     "text": "TADIR INA1 InA Service",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_58",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 59</b> <br> Which object type is assigned to activated OData services in transaction SU24?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Which object type is assigned to activated OData services in transaction SU24?",
             "answer": [
                 {
                     "bool": true,
@@ -1441,12 +1383,11 @@ const dump = {
                     "text": "HTTP",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_59",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 60</b> <br> Which SAP Fiori deployment option requires the Cloud connector?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Which SAP Fiori deployment option requires the Cloud connector?",
             "answer": [
                 {
                     "bool": false,
@@ -1465,12 +1406,11 @@ const dump = {
                     "text": "SAP S/4HANA Cloud Public Edition",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_60",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 61</b> <br> Which authorization objects can be used to restrict access to SAP Enterprise Search models in the SAP Fiori launchpad? Note: There are 2 correct answers to this question.",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Which authorization objects can be used to restrict access to SAP Enterprise Search models in the SAP Fiori launchpad? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1489,12 +1429,11 @@ const dump = {
                     "text": "RSDDLTIP",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_61",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 62</b> <br> Where can you find SAP Fiori tiles and target mappings according to segregation of duty?",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> Where can you find SAP Fiori tiles and target mappings according to segregation of duty?",
             "answer": [
                 {
                     "bool": false,
@@ -1513,12 +1452,11 @@ const dump = {
                     "text": "Assigned Business Catalogs",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_62",
         },
         {
-            "question": "<b>SAP Fiori Authorizations and S/4HANA Question 63</b> <br> If you want to evaluate catalog menu entries and authorization default values of IWSG and IWSV applications, which SUIM reports would you use? Note: There are 2 correct answers to this question.",
+            "question": "<b>SAP Fiori Authorizations and S/4HANA</b> <br><br> If you want to evaluate catalog menu entries and authorization default values of IWSG and IWSV applications, which SUIM reports would you use? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1537,12 +1475,11 @@ const dump = {
                     "text": "Roles By Authorization Object",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_63",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 64</b> <br> What are some of the rules for SAP-developed roles in SAP S/4HANA Cloud Public Edition? Note: There are 3 correct answers to this question.",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> What are some of the rules for SAP-developed roles in SAP S/4HANA Cloud Public Edition? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1565,12 +1502,11 @@ const dump = {
                     "text": "Manual role authorizations are supported in custom catalogs.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_64",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 65</b> <br> Which user type in SAP S/4HANA Cloud Public Edition is used for API access, system integration, and scenarios where automated data exchange is required?",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> Which user type in SAP S/4HANA Cloud Public Edition is used for API access, system integration, and scenarios where automated data exchange is required?",
             "answer": [
                 {
                     "bool": true,
@@ -1589,12 +1525,11 @@ const dump = {
                     "text": "SAP Support User",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_65",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 66</b> <br> What does SAP recommend you do when you transport a custom leading business role in SAP S/4HANA Cloud Public Edition?",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> What does SAP recommend you do when you transport a custom leading business role in SAP S/4HANA Cloud Public Edition?",
             "answer": [
                 {
                     "bool": false,
@@ -1609,12 +1544,11 @@ const dump = {
                     "text": "Add the pre-delivered business role that was used as a template to create the custom leading business role to the Software Collection.",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_66",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 67</b> <br> Which application in SAP S/4HANA Cloud Public Edition allows you to upload employee information independent of the customers' HR system?",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> Which application in SAP S/4HANA Cloud Public Edition allows you to upload employee information independent of the customers' HR system?",
             "answer": [
                 {
                     "bool": false,
@@ -1633,12 +1567,11 @@ const dump = {
                     "text": "Identity and Access Management app",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_67",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 68</b> <br> When planning an authorization concept for your SAP S/4HANA Cloud Public Edition implementation, what rules must you consider? Note: There are 2 correct answers to this question.",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> When planning an authorization concept for your SAP S/4HANA Cloud Public Edition implementation, what rules must you consider? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1657,12 +1590,11 @@ const dump = {
                     "text": "Business catalogs can be assigned directly to a business role.",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_68",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 69</b> <br> In SAP S/4HANA Cloud Public Edition, what does the ID of an SAP-predefined Space refer to?",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> In SAP S/4HANA Cloud Public Edition, what does the ID of an SAP-predefined Space refer to?",
             "answer": [
                 {
                     "bool": false,
@@ -1681,12 +1613,11 @@ const dump = {
                     "text": "The SAP Fiori applications it was defined for",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_69",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 70</b> <br> Which access categories are available to maintain restrictions in SAP S/4HANA Cloud Public Edition? Note: There are 3 correct answers to this question.",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> Which access categories are available to maintain restrictions in SAP S/4HANA Cloud Public Edition? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1709,12 +1640,11 @@ const dump = {
                     "text": "Write, Read, Value Help (write access)",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_70",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 71</b> <br> In SAP S/4HANA Cloud Public Edition, what can you do with the Display Authorization Trace? Note: There are 3 correct answers to this question.",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> In SAP S/4HANA Cloud Public Edition, what can you do with the Display Authorization Trace? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1737,12 +1667,11 @@ const dump = {
                     "text": "Analyze authorization check results for already assigned authorizations",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_71",
         },
         {
-            "question": "<b>Public Cloud User and Role Management Question 72</b> <br> In SAP S/4HANA Cloud Public Edition, which of the following can you change in a derived business role if the \"Inherit Spaces in Derived Business Roles\" checkbox is NOT selected in the leading business role?",
+            "question": "<b>Public Cloud User and Role Management</b> <br><br> In SAP S/4HANA Cloud Public Edition, which of the following can you change in a derived business role if the \"Inherit Spaces in Derived Business Roles\" checkbox is NOT selected in the leading business role?",
             "answer": [
                 {
                     "bool": false,
@@ -1761,12 +1690,11 @@ const dump = {
                     "text": "Restrictions",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_72",
         },
         {
-            "question": "<b>User Administration Question 73</b> <br> Which user types can log on to the SAP S/4HANA system in interactive mode? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> Which user types can log on to the SAP S/4HANA system in interactive mode? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1785,12 +1713,11 @@ const dump = {
                     "text": "Communication User",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_73",
         },
         {
-            "question": "<b>User Administration Question 74</b> <br> In SAP HANA Cloud, what can you configure in user groups? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> In SAP HANA Cloud, what can you configure in user groups? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1809,12 +1736,11 @@ const dump = {
                     "text": "Authorization privileges",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_74",
         },
         {
-            "question": "<b>User Administration Question 75</b> <br> Which archiving objects are relevant for archiving change documents for user master records? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> Which archiving objects are relevant for archiving change documents for user master records? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1833,12 +1759,11 @@ const dump = {
                     "text": "US_PASS",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_75",
         },
         {
-            "question": "<b>User Administration Question 76</b> <br> What is the correct configuration setting in table PRGN_CUST for user assignments when transporting roles within a Central User Administration scenario?",
+            "question": "<b>User Administration</b> <br><br> What is the correct configuration setting in table PRGN_CUST for user assignments when transporting roles within a Central User Administration scenario?",
             "answer": [
                 {
                     "bool": false,
@@ -1857,12 +1782,11 @@ const dump = {
                     "text": "USER_REL_IMPORT = NO",
                 },
             ],
-            "type": "radio",
             "questionFooter": 1,
             "id": "C_SEC_2405_76",
         },
         {
-            "question": "<b>User Administration Question 77</b> <br> Which of the following user types are excluded from some general password-related rules, such as password validity or initial password? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> Which of the following user types are excluded from some general password-related rules, such as password validity or initial password? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1881,12 +1805,11 @@ const dump = {
                     "text": "Service",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_77",
         },
         {
-            "question": "<b>User Administration Question 78</b> <br> What is required to centrally administer a user's master record using Central User Administration? Note: There are 3 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> What is required to centrally administer a user's master record using Central User Administration? Note: There are 3 correct answers to this question.",
             "answer": [
                 {
                     "bool": true,
@@ -1909,12 +1832,11 @@ const dump = {
                     "text": "An entry in transaction BD54 for the child system",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 3,
             "id": "C_SEC_2405_78",
         },
         {
-            "question": "<b>User Administration Question 79</b> <br> Which SU01 user types are NOT enabled for interaction? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> Which SU01 user types are NOT enabled for interaction? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1933,12 +1855,11 @@ const dump = {
                     "text": "Communications Data",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_79",
         },
         {
-            "question": "<b>User Administration Question 80</b> <br> Which entities share data with Business Partners in the S/4HANA Business User Concept? Note: There are 2 correct answers to this question.",
+            "question": "<b>User Administration</b> <br><br> Which entities share data with Business Partners in the S/4HANA Business User Concept? Note: There are 2 correct answers to this question.",
             "answer": [
                 {
                     "bool": false,
@@ -1957,7 +1878,6 @@ const dump = {
                     "text": "Employee",
                 },
             ],
-            "type": "checkbox",
             "questionFooter": 2,
             "id": "C_SEC_2405_80",
         },
