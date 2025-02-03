@@ -1,6 +1,6 @@
 const dump = {
     '86 + "329"': [
-        // merger carlos_86 + carlos_329
+        // merged carlos_86 + carlos_329
         // 'carlos_86': [
         {
             "question": "What can you maintain in transaction SU24 to reduce the overall maintenance in PFCG?",
