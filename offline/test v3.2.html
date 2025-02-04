@@ -398,7 +398,7 @@
         display: none;
     }
 </style>
-<body class="theme" data-theme-set="dark">
+<body class="theme" data-theme-set="light">
 <!--light || dark -->
 <div class="test" id="test">
     <div class="close" data-toggle-active></div>
@@ -2358,7 +2358,7 @@
     const DARKTHEME = 'dark';
     const LIGHTTHEME = 'light';
 
-    let themeDefault = DARKTHEME;
+    let themeDefault = LIGHTTHEME;
     let themeSet = document.querySelector('[data-theme-set]');
     let themeItem = document.querySelector(`[data-theme]`);
     let testTheme = window.sessionStorage.getItem('test_theme');
