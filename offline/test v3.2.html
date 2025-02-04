@@ -398,7 +398,7 @@
         display: none;
     }
 </style>
-<body class="theme" data-theme-set="light">
+<body class="theme" data-theme-set="dark">
 <!--light || dark -->
 <div class="test" id="test">
     <div class="close" data-toggle-active></div>
@@ -2355,13 +2355,19 @@
 <script>
     createButtonTestDump();
 
-    let testTheme = window.sessionStorage.getItem('test_theme');
+    const DARKTHEME = 'dark';
+    const LIGHTTHEME = 'light';
+
+    let themeDefault = DARKTHEME;
     let themeSet = document.querySelector('[data-theme-set]');
-    let themeDefault = themeSet ? themeSet.dataset.themeSet : 'light';
-
     let themeItem = document.querySelector(`[data-theme]`);
+    let testTheme = window.sessionStorage.getItem('test_theme');
 
-    if (themeItem) {
+    if (themeSet) {
+        themeDefault = themeSet ? (themeSet.dataset.themeSet || themeDefault) : themeDefault;
+    }
+
+    if (themeItem && themeDefault === DARKTHEME) {
         themeItem.classList.add('active');
     }
 
@@ -2371,8 +2377,7 @@
         if (themeSet) {
             themeSet.dataset.themeSet = testTheme;
         }
-
-        if (testTheme === 'light') {
+        if (testTheme === LIGHTTHEME) {
             document.querySelectorAll('[data-theme]').forEach(elem => {
                 elem.classList.remove('active');
             });
@@ -2711,7 +2716,7 @@
     });
 
     document.querySelector('[data-theme]').addEventListener('click', function () {
-        let theme = this.classList.contains('active')? 'dark' : 'light';
+        let theme = this.classList.contains('active') ? DARKTHEME : LIGHTTHEME;
 
         if (themeSet) {
             themeSet.dataset.themeSet = theme;
