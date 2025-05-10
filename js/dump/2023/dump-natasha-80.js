@@ -1,4 +1,4 @@
-const dump = {
+export const dump = {
     'natasha_80': [
         {
             "question": "Which of the following features are provided by the SAP Fiori Launchpad Content Manager?",

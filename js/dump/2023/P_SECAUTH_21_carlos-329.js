@@ -1,5 +1,6 @@
-const dump = {
+export const dump = {
     'carlos_329': [
+        // P_SECAUTH_21
         {
             "answer": [
                 {

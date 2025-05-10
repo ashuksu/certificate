@@ -1,4 +1,4 @@
-import { dump } from './data.js';
+import { dump } from './dump/2025/C_SEC_2405.js';
 
 document.addEventListener('DOMContentLoaded', () => {
 	(function () {
