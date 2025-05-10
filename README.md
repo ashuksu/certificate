@@ -1,13 +1,6 @@
-# certificate
-#### help in memorizing a test
+# [CERTIFICATE](https://ashuksu.github.io/certificate)
 
-https://ashuksu.github.io/certificate/
-
----
-~~P_SECAUTH_21~~
-
-C_SEC_2405
-
+#### help in memorizing tests
 
 <details>
   <summary>Show Preview</summary><br>
@@ -17,3 +10,9 @@ C_SEC_2405
   </a>
   <br>
 </details>
+
+---
+
+C_SEC_2405
+
+~~P_SECAUTH_21~~
